@@ -1,2 +1,0 @@
-# LEDE-sgame
-
