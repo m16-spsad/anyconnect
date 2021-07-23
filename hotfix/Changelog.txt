@@ -1,4 +1,0 @@
-Koolshare lede hotfix Changelog
-===========================================
-0.1
-   - add	add hotfix support
